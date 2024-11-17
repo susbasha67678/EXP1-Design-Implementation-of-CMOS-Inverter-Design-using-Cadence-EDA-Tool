@@ -105,7 +105,7 @@ For Transient Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
  
-
+https://drive.google.com/file/d/1c6ELkUpVo39DB4c_lypgtgbwwrygYem_/view?usp=drivesdk
 
 
 
